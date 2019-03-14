@@ -30,7 +30,8 @@
   "author": "Brad van der Laan",
   "license": "MIT",
   "dependencies": {
-    "jsdoc": "^3.4.3"
+    "jsdoc": "^3.4.3",
+    "prismjs": "^1.15.0"
   },
   "peerDependencies": {
     "jsdoc": "^3.4.3"
